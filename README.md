@@ -6,7 +6,6 @@ This could easily be adapted for any other costume you want just by replacing th
 
 The DFPlayer Mini doesn't have the ability to play a sound in the background so to work around this I mixed in the eye scanning sound to each of the sound effects as well as having versions without the sound mixed in, this means the first button acts as a background sound toggle and each other button will play one of two sound effects (with or without the background sound mixed in).
 
-
 This doesn't go into too much detail around creating the wearable portion of the sound glove as it's just switches and wires, I used some old 6 core alarm cable, those black micro switches that seem to come in every electronics kit and 6S lipo balance connectors as I had them spare. You should be able to make something from whatever you have spare, if you want to be a bit tidier there's an excellent tutorial for the tktalkie sound glove here (you will need to adapt things a bit): http://www.tktalkie.com/tutorial/glove
 
 Hardware
@@ -15,6 +14,7 @@ Hardware
 - DFPlayer mini
 - 5 X Large or small micro switch buttons
 - Hookup wire
+- 1K Resistor
 
 Software
 --------
