@@ -26,8 +26,6 @@ Once you have flashed the Arduino just copy the contents of the MP3s folder to t
 
 Wiring
 ------
-![Picture of wiring]
-(https://github.com/Xitsz/Cylon-soundbox/blob/master/images/Wiring.png "Example wiring")
-![Picture of DFPlayer pinout]
-(https://github.com/Xitsz/Cylon-soundbox/blob/master/images/DFPlayerPinout.png "DFPlayer Mini pinout")
+![Picture of wiring] (https://github.com/Xitsz/Cylon-soundbox/blob/master/images/Wiring.png "Example wiring")
+![Picture of DFPlayer pinout] (https://github.com/Xitsz/Cylon-soundbox/blob/master/images/DFPlayerPinout.png "DFPlayer Mini pinout")
 
